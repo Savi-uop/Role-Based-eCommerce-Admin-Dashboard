@@ -62,6 +62,12 @@ node seed.js
 npm run dev
 ```
 
+Login Credentials (for testing):
+
+Admin: admin@example.com / Admin@123
+
+User: alice@example.com / user123
+
 
 
 
